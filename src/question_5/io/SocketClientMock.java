@@ -1,4 +1,4 @@
-package question_5;
+package question_5.io;
 
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
